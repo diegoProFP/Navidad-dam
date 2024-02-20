@@ -8,5 +8,6 @@ public class Marco extends ElfoGenerico{
         super(nombre, seccionLaboral);
         this.altura=altura;
 
+
     }
 }
