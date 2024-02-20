@@ -5,7 +5,7 @@ public class Alvaro extends ElfoGenerico {
 	public Alvaro() {
 		super("AlvaroExtraño", SeccionLaboralElfo.DISFRACES);
 	}
-	int contador=44;
+	int contador=444;
 
 
 }
