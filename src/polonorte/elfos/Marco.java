@@ -7,5 +7,6 @@ public class Marco extends ElfoGenerico{
     protected Marco(String nombre, Enum seccionLaboral,double altura) {
         super(nombre, seccionLaboral);
         this.altura=altura;
+
     }
 }
