@@ -27,7 +27,8 @@ public class Reno {
         System.out.println("Reno.volar SISIISISISISISISISSISIISISISISIISISISISISISISISISISISISISISISISISISISISIISISISISSISIISISISISISISISISISISISISISISISISISISIISISIS");
 
         System.out.println("Reno Renardo");
-System.out.println("vuela vuela");
+		System.out.println("vuela vuela");
+		System.out.println("hipopotomonstrosesquipedaliofobia (Miedo a las palabras largas)");
         return "mmmmmiiiiii chus chus peeeeerrrr";
     }
 
