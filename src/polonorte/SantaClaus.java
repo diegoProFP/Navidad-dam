@@ -7,7 +7,7 @@ import java.time.Month;
 public class SantaClaus {
 
 	//Comentario 1
-
+	//Comentario 2
 	// Los kilos de peso de SantaClaus
 	private int kilosPeso;
 
