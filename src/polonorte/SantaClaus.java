@@ -37,6 +37,8 @@ public class SantaClaus {
 			saludo = "hoho? otra vez?";
 
 		}
+
+		System.out.println("Nuevo comentario");
 		return saludo;
 	}
 
