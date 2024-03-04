@@ -42,6 +42,9 @@ public class SantaClaus {
 
 		System.out.println("Más comentarios");
 
+		if(saludo.contains("hoho")){
+			System.out.println("SantaClaus contento");
+		}
 
 		return saludo;
 	}
