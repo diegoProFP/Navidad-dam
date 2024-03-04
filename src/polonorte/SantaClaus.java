@@ -39,6 +39,10 @@ public class SantaClaus {
 		}
 
 		System.out.println("Nuevo comentario");
+
+		System.out.println("Más comentarios");
+
+
 		return saludo;
 	}
 
