@@ -6,8 +6,6 @@ import java.time.Month;
 //Esta clase describe a un santa claus y la creó Baltasar. Se considera que es la versión 1.2 del programa
 public class SantaClaus {
 
-	//Comentario 1
-	//Comentario 2
 	// Los kilos de peso de SantaClaus
 	private int kilosPeso;
 
